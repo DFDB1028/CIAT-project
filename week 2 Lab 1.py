@@ -1,0 +1,5 @@
+print('Welcome to the ballpark!')
+team = input ('what is your favorate team?')
+print (team)
+food = input('what is ballpark food?')
+print (food)
